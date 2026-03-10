@@ -6,8 +6,14 @@ BRUNO DA SILVA CAVALCANTE,
 EVANDRO DE MAGALHÃES NOBRE,
 TIAGO GOES BEZERRA
 
-Requerimentos
-pip install=>
+pip install 
+ requests
+ gzip
+ numpy
+ powerlaw
+ matplotlib
+
+Requerimentos=>
 certifi==2026.2.25
 charset-normalizer==3.4.5
 colorama==0.4.6
